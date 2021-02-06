@@ -5,19 +5,19 @@ const dataProject = [
         key: 1,
         imgUrl: 'https://denyyel914.github.io/Movie-list/',
         title: 'Movie list generator',
-        location: '/img/Movie.png'
+        location: 'img/Movie.png'
     },
     {
         key: 2,
         imgUrl: 'https://denyyel914.github.io/Todo-list/',
         title: 'Todo-list',
-        location: './img/Todo-list.png'
+        location: 'img/Todo-list.png'
     },
     {
         key: 3,
         imgUrl: 'https://denyyel914.github.io/Movie-list/',
         title: 'Playstation Cloning',
-        location: '/img/Screenshot 2020-11-03 13.12.16.png'
+        location: 'img/Screenshot 2020-11-03 13.12.16.png'
     },
     {
         key: 4,
