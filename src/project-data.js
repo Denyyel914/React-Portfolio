@@ -15,13 +15,13 @@ const dataProject = [
     },
     {
         key: 3,
-        imgUrl: 'https://denyyel914.github.io/Movie-list/',
+        imgUrl: 'https://denyyel914.github.io/Playstation-Cloning/',
         title: 'Playstation Cloning',
         location: 'img/Screenshot 2020-11-03 13.12.16.png'
     },
     {
         key: 4,
-        imgUrl: 'https://denyyel914.github.io/Playstation-Cloning/',
+        imgUrl: 'https://denyyel914.github.io/Denyyelkid914.github.io-Gaming/',
         title: 'Gaming Website',
         location: 'img/Screenshot 2020-11-03 13.15.58.png'
     },
