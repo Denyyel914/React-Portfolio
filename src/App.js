@@ -7,7 +7,7 @@ import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 import './App.css';
 
-const date = new Date().getFullYear();
+
 
 function App() {
   return (<div>
@@ -32,7 +32,7 @@ function App() {
     </div>
  </div>
       <Contact />
-      <Footer year={date} />
+      <Footer />
     </div>
   );
 }
