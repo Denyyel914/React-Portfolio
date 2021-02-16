@@ -32,7 +32,7 @@
 }
 
 .social-links h2 {
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .social-links p {
@@ -54,8 +54,6 @@
 .social-links .tw {
     color: #1DA1F2;    
 }
-
-
 
 .social-links .git {
     color: #211F1F;

@@ -126,6 +126,9 @@ span {
 }
 
 @media(max-width: 760px) {
+    header {
+        width: 100%;
+    }
     body {
         overflow-x: hidden;
     }
