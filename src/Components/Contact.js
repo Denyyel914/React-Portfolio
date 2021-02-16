@@ -1,5 +1,9 @@
 import React from 'react';
-
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import GitHubIcon from '@material-ui/icons/GitHub';
+import TwitterIcon from '@material-ui/icons/Twitter';
+import FacebookIcon from '@material-ui/icons/Facebook';
+import InstagramIcon from '@material-ui/icons/Instagram';
 import './contact.css';
 
 const Contact = () => {
@@ -20,11 +24,11 @@ const Contact = () => {
                 
                 <div>
                    <h2>Get in touch</h2>
-                   <a href="https://twitter.com/Denyyel"><i class="fab fa-twitter-square tw"></i></a>
-                   <a href="https://github.com/Denyyel914"><i class="fab fa-github-square github"></i></a>
-                   <a href="https://www.linkedin.com/in/deniel-salvacion-75aba31b4/"><i class="fab fa-linkedin link"></i></a>
-                   <a href="https://www.facebook.com/denyyelkid/"><i class="fab fa-facebook-square fb"></i></a>
-                   <a href="https://www.instagram.com/denyyel/"><i class="fab fa-instagram-square ig"></i></a>
+                   <a href="https://twitter.com/Denyyel"><TwitterIcon className="icon tw" /></a>
+                   <a href="https://github.com/Denyyel914"><GitHubIcon className="icon git"/></a>
+                   <a href="https://www.linkedin.com/in/deniel-salvacion-75aba31b4/" ><LinkedInIcon className="icon linkedin" /></a>
+                   <a href="https://www.facebook.com/denyyelkid/"><FacebookIcon className="icon fb"/></a>
+                   <a href="https://www.instagram.com/denyyel/"><InstagramIcon className="icon ig"/></a>
                 </div>
              </div>
           </div>

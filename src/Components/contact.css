@@ -19,6 +19,14 @@
     line-height: 2;
 }
 
+.social-links .icon {
+    font-size: 2rem;
+}
+
+/* .social-links .linkedin {
+    font-size: 2rem;
+} */
+
 .social-links a {
     margin-left: 5px;
 }
@@ -47,11 +55,9 @@
     color: #1DA1F2;    
 }
 
-.social-links .link {
-    color: #2867B2;
-}
 
-.social-links .github {
+
+.social-links .git {
     color: #211F1F;
 }
 
