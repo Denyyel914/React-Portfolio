@@ -30,6 +30,12 @@ const dataProject = [
         imgUrl: 'https://denyyel914.github.io/',
         title: 'Xbox Cloning',
         location: 'img/Screenshot 2020-11-03 13.05.06.png'
+    },
+    {
+        key: 6,
+        imgUrl: 'https://denyyel914.github.io/Weather-app/',
+        title: 'Weather App',
+        location: 'img/Weather-App.png'
     }
 ]
 
