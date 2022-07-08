@@ -20,7 +20,7 @@ const Header = () => {
        </div>
     </header>
     <div class="main-content">
-       <h1>Deniel Salvacion</h1>
+       <h1>Deniel Salvacionssssss</h1>
        <h2>Front End <span>Developer</span></h2>
        <a href="https://drive.google.com/file/d/1bMX9t0CT4hV1Q1DLRas6_OGGqw0rmOIi/view?usp=sharing" class="btn">Download my resume</a>
     </div>
