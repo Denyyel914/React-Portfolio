@@ -37,7 +37,7 @@ const Header = () => {
         </div>
       </header>
       <div class="main-content">
-        <h1>Deniel SalvacionSSSSSSSSSSSSS</h1>
+        <h1>Deniel Salvacion</h1>
         <h2>
           Front End <span>Developer</span>
         </h2>
